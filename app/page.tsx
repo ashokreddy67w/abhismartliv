@@ -27,7 +27,7 @@ export default function Home() {
       <ColourSection />
       <WorkspaceSection />
       <CustomIconsSection />
-      {/* <ModuleSection /> */}
+      <ModuleSection />
       <InstallationSection />
       <EcosystemSection />
       <FAQSection />
